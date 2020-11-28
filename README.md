@@ -9,17 +9,17 @@
 博客连接：http://xiaohuou.cn/
 
 数据持久层使用了JPA,目录中有blog.sql文件，创建一个blog的数据库，运行sql文件生成对应的表。maven环境配置完，记得安装Lombok插件。
-后台登录密码默认为123456，如需修改密码只需将util包下的MD5Utils类的运行结果放入数据库即可登录。
+后台登录密码默认为123456，如需修改密码只需将util包下的MD5Utils类的运行结果放入数据库即可登录
 
-功能:  
+## 功能:  
 前端展示 + 后台管理
 
-技术栈:  
+## 技术栈:  
 后端：SpringBoot + JPA   
 数据库: MySQL  
 前段UI：Semantic UI框架 + thymeleaf模板
 
-工具与环境:  
+## 工具与环境:  
 IDEA  
 navicat  
 jdk8  
