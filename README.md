@@ -23,6 +23,6 @@
 IDEA  
 navicat  
 jdk8  
-maven3.6.3  
-mysql8.0.17  
-springboot2.3.5
+maven-3.6.3  
+mysql-8.0.17  
+springboot-2.3.5
